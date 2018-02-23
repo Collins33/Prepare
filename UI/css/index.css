@@ -9,3 +9,9 @@ body{
 .form-button{
     width:100%;
 }
+.form-register-business{
+    margin-top: 150px;
+}
+#registration-description{
+    height: 100px;
+}
